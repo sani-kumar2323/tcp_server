@@ -1,4 +1,4 @@
-module github.com/sani-kumar2323/test-api
+module github.com/sani-kumar2323/test_api
 
 go 1.25.4
 
